@@ -1,6 +1,6 @@
 .meetVideoContainer {
     position: relative;
-    height: 100vh;
+    height: 95vh;
     background: rgb(1, 4, 48);
 }
 
@@ -46,12 +46,12 @@
     background: white;
     border-radius: 10px;
     width: 30vw;
-    padding-inline: 20px;
+    padding: 5px;
 }
 
 .chatContainer {
     position: relative;
-    height: 100%;
+    height: 95%;
 }
 
 
